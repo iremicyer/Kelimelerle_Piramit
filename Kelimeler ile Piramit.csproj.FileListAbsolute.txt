@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\Kelimeler ile Piramit\Kelimeler ile Piramit\bin\Debug\netcoreapp3.1\Kelimeler ile Piramit.exe
+C:\Users\Administrator\source\repos\Kelimeler ile Piramit\Kelimeler ile Piramit\bin\Debug\netcoreapp3.1\Kelimeler ile Piramit.deps.json
+C:\Users\Administrator\source\repos\Kelimeler ile Piramit\Kelimeler ile Piramit\bin\Debug\netcoreapp3.1\Kelimeler ile Piramit.runtimeconfig.json
+C:\Users\Administrator\source\repos\Kelimeler ile Piramit\Kelimeler ile Piramit\bin\Debug\netcoreapp3.1\Kelimeler ile Piramit.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Kelimeler ile Piramit\Kelimeler ile Piramit\bin\Debug\netcoreapp3.1\Kelimeler ile Piramit.dll
+C:\Users\Administrator\source\repos\Kelimeler ile Piramit\Kelimeler ile Piramit\bin\Debug\netcoreapp3.1\Kelimeler ile Piramit.pdb
+C:\Users\Administrator\source\repos\Kelimeler ile Piramit\Kelimeler ile Piramit\obj\Debug\netcoreapp3.1\Kelimeler ile Piramit.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Kelimeler ile Piramit\Kelimeler ile Piramit\obj\Debug\netcoreapp3.1\Kelimeler ile Piramit.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Kelimeler ile Piramit\Kelimeler ile Piramit\obj\Debug\netcoreapp3.1\Kelimeler ile Piramit.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Kelimeler ile Piramit\Kelimeler ile Piramit\obj\Debug\netcoreapp3.1\Kelimeler ile Piramit.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Kelimeler ile Piramit\Kelimeler ile Piramit\obj\Debug\netcoreapp3.1\Kelimeler ile Piramit.dll
+C:\Users\Administrator\source\repos\Kelimeler ile Piramit\Kelimeler ile Piramit\obj\Debug\netcoreapp3.1\Kelimeler ile Piramit.pdb
+C:\Users\Administrator\source\repos\Kelimeler ile Piramit\Kelimeler ile Piramit\obj\Debug\netcoreapp3.1\Kelimeler ile Piramit.genruntimeconfig.cache
